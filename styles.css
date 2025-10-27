@@ -1,0 +1,137 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: pink;
+    margin-bottom: 10px;
+    font-family: Happy Monkey;
+    align-items: center;
+}
+.img {
+    width: 400px;
+    border-radius: 50%;
+    border: 6px solid violet;
+}
+#date {
+    padding: 10px;
+    background-color: violet;
+    border-radius: 10px;
+}
+#wish-1 {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #FB607F;
+    border-radius: 10px;
+}
+.strawhat-crazy {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 400px;
+    border: 6px solid violet;
+    border-radius: 10px;
+    background-image: url(images/strawhat.jpg);
+    transition: all 0.3s ease;
+    background-size: cover;
+}
+.strawhat-crazy:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlveHlyM3BzdTVoOGxybWxpNDZqenZiZDRxa2h2M3pvbmo4cXBzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C3brYLms1bhv2/giphy.gif);
+}
+.flowers {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 400px;
+    border: 6px solid violet;
+    border-radius: 10px;
+    background-image: url(images/strawhat.jpg);
+    transition: all 0.3s ease;
+    background-size: cover;
+}
+.flowers:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    background-image: url(images/rapunzel.jpg);
+}
+#disney-princess {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #FB607F;
+    border-radius: 10px;
+}
+.prince-sanji {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 400px;
+    border: 6px solid violet;
+    border-radius: 10px;
+    background-image: url(images/strawhat.jpg);
+    transition: all 0.3s ease;
+    background-size: cover;
+}
+.prince-sanji:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    background-image: url(images/prince.png);
+}
+#charming {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #FB607F;
+    border-radius: 10px;
+}
+.october {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 400px;
+    border: 6px solid violet;
+    border-radius: 10px;
+    background-image: url(images/strawhat.jpg);
+    transition: all 0.3s ease;
+    background-size: cover;
+}
+.october:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    background-image: url(images/jasmine.jpg);
+}
+#october-1 {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #FB607F;
+    border-radius: 10px;
+}
+#last-wish {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #FB607F;
+    border-radius: 10px;
+}
+.my-wish {
+        margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 400px;
+    border: 6px solid violet;
+    border-radius: 10px;
+    background-image: url(images/strawhat.jpg);
+    transition: all 0.3s ease;
+    background-size: cover;
+}
+.my-wish:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    background-image: url(images/flowers.jpg);
+}
+
